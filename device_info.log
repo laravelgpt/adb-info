@@ -1,0 +1,47 @@
+ERROR:root:Command failed: adb --version
+Error: 'adb' is not recognized as an internal or external command,
+operable program or batch file.
+
+ERROR:root:Environment check failed: Command 'adb --version' returned non-zero exit status 1.
+ERROR:root:Installation failed: [Errno 13] Permission denied: 'C:\\Users\\HRB\\AppData\\Local\\Android\\platform-tools\\platform-tools\\adb.exe'
+ERROR:root:Command failed: adb devices
+Error: 'adb' is not recognized as an internal or external command,
+operable program or batch file.
+
+ERROR:root:Error refreshing devices: Command 'adb devices' returned non-zero exit status 1.
+ERROR:root:Command failed: adb devices
+Error: 'adb' is not recognized as an internal or external command,
+operable program or batch file.
+
+ERROR:root:Error refreshing devices: Command 'adb devices' returned non-zero exit status 1.
+ERROR:root:Command failed: adb --version
+Error: 'adb' is not recognized as an internal or external command,
+operable program or batch file.
+
+ERROR:root:Environment check failed: Command 'adb --version' returned non-zero exit status 1.
+ERROR:root:Command failed: adb --version
+Error: 'adb' is not recognized as an internal or external command,
+operable program or batch file.
+
+ERROR:root:Environment check failed: Command 'adb --version' returned non-zero exit status 1.
+ERROR:root:Installation failed: [Errno 13] Permission denied: 'C:\\Users\\HRB\\AppData\\Local\\Android\\platform-tools\\platform-tools\\adb.exe'
+ERROR:root:Command failed: adb devices
+Error: 'adb' is not recognized as an internal or external command,
+operable program or batch file.
+
+ERROR:root:Error refreshing devices: Command 'adb devices' returned non-zero exit status 1.
+ERROR:root:Command failed: adb --version
+Error: 'adb' is not recognized as an internal or external command,
+operable program or batch file.
+
+ERROR:root:Environment check failed: Command 'adb --version' returned non-zero exit status 1.
+ERROR:root:Command failed: adb --version
+Error: 'adb' is not recognized as an internal or external command,
+operable program or batch file.
+
+ERROR:root:Environment check failed: Command 'adb --version' returned non-zero exit status 1.
+ERROR:root:Failed to update system PATH: [WinError 5] Access is denied
+ERROR:root:Command failed: adb -s 6hjnlv5thmeyzpoz shell getprop ro.product.manufacturer
+Error: adb.exe: device '6hjnlv5thmeyzpoz' not found
+
+ERROR:root:Error checking info: Command 'adb -s 6hjnlv5thmeyzpoz shell getprop ro.product.manufacturer' returned non-zero exit status 1.

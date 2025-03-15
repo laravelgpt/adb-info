@@ -1,0 +1,6 @@
+ERROR:root:Command failed: adb --version
+Error: 'adb' is not recognized as an internal or external command,
+operable program or batch file.
+
+ERROR:root:Environment check failed: Command 'adb --version' returned non-zero exit status 1.
+ERROR:root:Failed to update system PATH: [WinError 5] Access is denied
